@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Aron Forero",
+    "occupation":"Systems Engineering",
+    "description":"Focused in the Data Analytics and  Machine Learning area. Knowledge in statistics, machine learning and deep learning techniques, and advanced knowledge in Python",
+    "school":"Universidad Industrial de Santander (UIS)",
+    "degree":"Systems Engineering",
+    "image":"profile_pic.jpg",
+    "bio":"I'm from Bucaramanga-Santander(Colombia), student of systems engineering at Universidad Industrial de Santander, and i am 22 years old. In my free time i usually read about machine learning, deep learning, maths and all of that new technological techniques. My degree project was based in data analytics, and the application of machine learning techniques to predict the scores of one of the most important exams in Colombia(SABER11 exam). I use Linux distributions to work, specifically deepin because i consider it's the most beautiful distro. I have been living a healthy life, and i practice volleyball 4 times at week, and ride my bike everyday.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "foreroo965@gmail.com",
+    "phone": "+57 3197743763",
+    "address":{
+      "street":"Guayacan Avenue with second street.",
+      "city":"Bucaramanga",
+      "state":"Santander",
+      "zip": "68005"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"Documents/Curriculum_vitae.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aron-forero-6b2b9b165/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AronForero",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/aronforero/?hl=es-la",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/AronForero",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AronForero",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Universidad Industrial de Santander",
+        "degree":"Systems Engineering",
+        "graduated":"September 2018",
+        "description":"At University i learned all of my knowledge related with programming, tools as HTML, PHP, basic CSS, Basic C++, Advance Python, Maths, statistics, Machine Learning and Deep Learning techniques. And I did a couple of Machine Learning/Data Analytics projects."
+      },
+      {
+        "school":"Udemy",
+        "degree":"Course of Machine learning and Data science in Python",
+        "graduated":"In Course...80% completed",
+        "description":"In this course the professor Juan Gabriel Gomila, explains several concepts about machine learning and data analytics, ways to clean the data, fill the blanks and resolve the troubles that could appear in a real machine learning project. He shows us several machine learning algorithms(about Regression and Clasification) and the ways to use them. And finally he teach us about Deep Learning, concepts of neural networks and how to implement them with TensorFlow in Python."
+      },
+      {
+        "school":"Udemy",
+        "degree":"Course of Machine learning and Data science in R",
+        "graduated":"Starting the Course... 20% completed",
+        "description":"In this course the professor Juan Gabriel Gomila, explains several concepts about machine learning and data analytics, ways to clean the data, fill the blanks and resolve the troubles that could appear in a real machine learning project."
+      }
+    ],
+    "work":[
+      {
+        "company":"UNEMPLOYED, Just Graduated",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far.",
+        "image":"git.jpg"
+      },
+      {
+        "name":"Python",
+        "description":"Python was one of my first programming language that I learnt years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image":"python.jpg"
+      },
+      {
+        "name":"Machine Learning",
+        "description":"I enjoy solving machine learning problems, classifications, regressions, etc. I really like this area of the AI, and i hope someday to work on that.",
+        "image":"ml.jpeg"
+      },
+      {
+        "name":"Django",
+        "description":"I am fairly new to Django and really did not like it at first. It has grown on me though and I will continue to use it going forward.",
+        "image":"django.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Analitica de datos y machine learning para la prediccion del desempeño en el examen SABER11",
+        "category":"University Degree Project",
+        "image":"icfes.jpg",
+        "url":"https://github.com/AronForero/ICFESProject"
+      },
+      {
+        "title":"KiwiCampus-Challenge",
+        "category":"Machine Learning Engineering challenge",
+        "image":"kiwi.png",
+        "url":"https://github.com/AronForero/German-Traffic-Signs-Detector"
+      },
+      {
+        "title":"Home Credit Default Risk - Kaggle Challenge",
+        "category":"Machine Learning Engineering challenge",
+        "image":"home-credit.png",
+        "url":"https://github.com/AronForero/Kaggles-HomeCreditDefaultRisk"
+      },
+      {
+        "title":"Otto Group Product Clasification - Kaggle Challenge",
+        "category":"Machine Learning Engineering challenge",
+        "image":"otto.png",
+        "url":"https://github.com/AronForero/KaggleChallenge_Otto-Group-Product-Classification"
+      },
+      {
+        "title":"LIFA-Parking",
+        "category":"WEB Developer - FreeLancer",
+        "image":"parking.jpg",
+        "url":"https://github.com/AronForero/Parking_WebSystem"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Sergio Martinez Lizarazo - University friend - 3123858680",
+        "user":"Personal"
+      },
+      {
+        "text":"Andres Felipe Camacho Velandia - University friend - 3187964813",
+        "user":"Personal"
+      }
+    ]
+  }
+}
